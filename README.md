@@ -22,4 +22,4 @@ Lowpass filter Z-in and Z out:
 
 
 Shematic for the diplexer:
-
+![schematic.png](schematic.png)
