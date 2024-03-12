@@ -19,3 +19,7 @@ Lowpass filter frequency analysis ( insertion loss, insertion phase, and return 
 
 Lowpass filter Z-in and Z out:
 ![lowpassfilter-Z.png](lowpassfilter-Z.png)
+
+
+Shematic for the diplexer:
+
