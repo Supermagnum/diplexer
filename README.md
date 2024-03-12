@@ -23,3 +23,6 @@ Lowpass filter Z-in and Z out:
 
 Shematic for the diplexer:
 ![schematic.png](schematic.png)
+
+Inductors:
+https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
