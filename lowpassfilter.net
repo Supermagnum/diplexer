@@ -1,0 +1,18 @@
+* C:\users\haaken\Mine dokumenter\lowpassfilter.asc
+V1 N001 0 AC 1 0 Rser=50.00
+L1 N001 N002 160.0n
+C2 N002 0 91.00p
+L3 N002 N003 270.0n
+C4 N003 0 110.0p
+L5 N003 N004 270.0n
+C6 N004 0 110.0p
+L7 N004 N005 270.0n
+C8 N005 0 110.0p
+L9 N005 N006 220.0n
+C10 N006 0 62.00p
+RL N006 0 50
+.ac dec 1001 22.00Meg 343.8Meg
+.net I(RL) V1
+* 10th Order Chebyshev Lowpass\nSeries First\nCutoff Frequency = 55 MHz\nPassband Ripple = 0.10 dB
+.backanno
+.end
