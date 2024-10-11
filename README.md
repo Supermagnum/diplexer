@@ -29,6 +29,9 @@ Inductors:
 
 https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
 
+Screenshot from Kicads PCB editor.
+https://github.com/Supermagnum/diplexer/blob/main/board-picture-kicad.png
+
 All caps are 2220 (5750 Metric) SMD RF Microwave / High Q ceramic.
 
 They should handle up to 1KW.
