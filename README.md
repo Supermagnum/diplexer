@@ -1,7 +1,7 @@
 # diplexer
 HF+6M lowpass and 4M highpass
 
-Higpass Ltspice analysis setup:
+Highpass Ltspice analysis setup:
 ![highpass-parts.png](highpass-parts.png)
 
 Highpass frequency analysis ( insertion loss, insertion phase, and return loss):
