@@ -32,6 +32,8 @@ https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
 
 All caps are 2220 (5750 Metric) SMD RF Microwave / High Q ceramic.
 
+They should handle up to 1KW.
+
 Connectors are:
 2 X Amphenol part number: 	172117
 1 X Amphenol part number: 	83-1R
