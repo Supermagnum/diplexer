@@ -20,7 +20,7 @@ Lowpass filter frequency analysis ( insertion loss, insertion phase, and return 
 Lowpass filter Z-in and Z out:
 ![lowpassfilter-Z.png](lowpassfilter-Z.png)
 
-Screenshot from Kicad:https://github.com/Supermagnum/diplexer/blob/main/board-picture-kicad.png
+Screenshot of the pcb from Kicad:https://github.com/Supermagnum/diplexer/blob/main/board-picture-kicad.png
 
 
 Shematic for the diplexer:
