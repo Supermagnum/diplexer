@@ -25,6 +25,12 @@ Lowpass filter Z-in and Z out:
 Shematic for the diplexer:
 ![schematic.png](schematic.png)
 
+
+
+The high pass filter has:  54mhz -40dB.
+Lowpass filter 70.6 mhz -40dB.
+
+
 Inductors:
 
 https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
