@@ -36,7 +36,7 @@ Inductors:
 
 https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
 
-All caps are 2220 (5750 Metric) SMD RF Microwave / High Q ceramic. 1KV or better.
+All caps are 2525 (QEEV Series)  SMD RF Microwave / High Q ceramic. 1KV or better.
 
 They should handle up to 1KW.
 
