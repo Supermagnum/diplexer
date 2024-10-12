@@ -1295,7 +1295,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 105.7148 104.14 0)
 			(effects
 				(font
@@ -1363,7 +1363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 186.69 52.3748 0)
 			(effects
 				(font
@@ -1431,7 +1431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 161.29 52.3748 0)
 			(effects
 				(font
@@ -1637,7 +1637,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 179.3748 104.14 0)
 			(effects
 				(font
@@ -1705,7 +1705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 95.25 52.3748 0)
 			(effects
 				(font
@@ -1775,7 +1775,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 199.6948 104.14 0)
 			(effects
 				(font
@@ -2849,7 +2849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 129.8448 104.14 0)
 			(effects
 				(font
@@ -3253,7 +3253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 71.12 52.3748 0)
 			(effects
 				(font
@@ -3519,7 +3519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 155.2448 104.14 0)
 			(effects
 				(font
@@ -3587,7 +3587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
+		(property "Footprint" "sparkfun-electromech:2525"
 			(at 127 52.3748 0)
 			(effects
 				(font

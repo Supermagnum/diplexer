@@ -1,4 +1,4 @@
-24114716122660492
+24118173713097608
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96768,6 +96768,13 @@ sparkfun-electromech
 4
 4
 sparkfun-electromech
+2525
+SMD 2525 footprint
+
+0
+2
+2
+sparkfun-electromech
 3362U
 
 
@@ -97523,6 +97530,13 @@ SLIDER-SMALL
 0
 3
 3
+sparkfun-electromech
+SOIC-2
+
+
+0
+2
+2
 sparkfun-electromech
 STAND-OFF
 STAND OFF
