@@ -27,23 +27,17 @@ Shematic for the diplexer:
 https://raw.githubusercontent.com/Supermagnum/diplexer/refs/heads/main/diplexer.pdf
 
 
-
 The high pass filter has:  54mhz -40dB.
 Lowpass filter 70.6 mhz -40dB.
 
+BOM for capacitors and connectors:
+https://github.com/Supermagnum/diplexer/blob/main/BOM.txt
 
 Inductors:
 
 https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
 
-All caps are 2525 (QEEV Series)  SMD RF Microwave / High Q ceramic. 1KV or better.
 
-They should handle up to 1KW.
-
-Connectors are:
-2 X Amphenol part number: 	172117
-
-1 X Amphenol part number: 	83-1R
 
 
 
