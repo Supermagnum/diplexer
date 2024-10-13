@@ -29,7 +29,7 @@ Shematic for the diplexer:
 https://raw.githubusercontent.com/Supermagnum/diplexer/refs/heads/main/diplexer.pdf
 
 
-The lowpass filter has: 54mhz -40dB. Highpass filter 70.6 mhz -40dB.
+The lowpass filter has: 76mhz -40dB. Highpass filter 54.5mhz -40dB.
 
 BOM for capacitors and connectors:
 https://github.com/Supermagnum/diplexer/blob/main/BOM.xls
