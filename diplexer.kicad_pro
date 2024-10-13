@@ -116,7 +116,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 3.0,
+        "min_clearance": 0.1,
         "min_connection": 2.7,
         "min_copper_edge_clearance": 0.5,
         "min_hole_clearance": 0.25,
@@ -451,7 +451,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 2.3,
+        "clearance": 1.0,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -468,7 +468,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 2.3,
+        "clearance": 1.0,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.6,
@@ -513,7 +513,7 @@
       "field_delimiter": ",",
       "keep_line_breaks": false,
       "keep_tabs": false,
-      "name": "CSV",
+      "name": "CSV-data",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
       "string_delimiter": "\""
@@ -557,13 +557,25 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Beskrivelse",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Referanse"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
