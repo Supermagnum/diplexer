@@ -39,6 +39,8 @@ You have to make these yourself!
 https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
 
 
+
+PCB boards and assembly:
 <a href="https://www.pcbway.com/project/shareproject/HF_6M_lowpass_and_4M_highpass_diplexer_37973d8c.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 
