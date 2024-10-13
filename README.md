@@ -23,6 +23,8 @@ Lowpass filter Z-in and Z out:
 PCB board screenshot:
 ![board-picture-kicad.png](https://github.com/Supermagnum/diplexer/blob/main/board-picture-kicad.png)
 
+I had to draw the 1111 SMD footprint because it wasn't included in the Kicad database.
+I hope that I haven't messed up.
 Shematic for the diplexer:
 https://raw.githubusercontent.com/Supermagnum/diplexer/refs/heads/main/diplexer.pdf
 
