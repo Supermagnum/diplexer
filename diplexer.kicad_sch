@@ -1541,17 +1541,6 @@
 		)
 		(uuid "bd6a2938-6bde-4f62-a1e1-501d18908c4b")
 	)
-	(label "HF+6M"
-		(at 194.31 53.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bf0b02c7-52f8-4f91-94e1-da771d0d3add")
-	)
 	(symbol
 		(lib_id "power:GND")
 		(at 156.21 111.76 0)
@@ -4952,7 +4941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "sparkfun-electromech:N-conn slanted"
+		(property "Footprint" "sparkfun-electromech:UHF slanted"
 			(at 245.11 104.14 0)
 			(effects
 				(font
@@ -5290,7 +5279,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "sparkfun-electromech:UHF slanted"
+		(property "Footprint" "sparkfun-electromech:N-conn slanted"
 			(at 209.296 44.45 0)
 			(effects
 				(font
