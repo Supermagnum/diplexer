@@ -38,6 +38,9 @@ Inductors:
 You have to make these yourself!
 https://github.com/Supermagnum/diplexer/blob/main/Inductors.pdf
 
+Suitable box:
+https://www.hammfg.com/part/1457N1601E
+
 All bolt holes is M3.
 
 PCB boards and assembly:
