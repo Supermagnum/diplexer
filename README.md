@@ -1,7 +1,8 @@
 # diplexer
 HF+6M lowpass and 4M highpass
 
-The lowpass filter has: 71.5mhz -42dB. Highpass filter 52.5mhz -45dB.
+The lowpass filter has: 71.5mhz -42dB. 
+Highpass filter 52.5mhz -45dB. 50.5mhz -50db
 
 Highpass Ltspice analysis setup:
 ![highpass-parts.png](highpass-parts.png)
