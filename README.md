@@ -1,6 +1,8 @@
 # diplexer
 HF+6M lowpass and 4M highpass
 
+The lowpass filter has: 71.5mhz -42dB. Highpass filter 52.5mhz -45dB.
+
 Highpass Ltspice analysis setup:
 ![highpass-parts.png](highpass-parts.png)
 
@@ -27,9 +29,6 @@ I had to draw the 1111 SMD footprint because it wasn't included in the Kicad dat
 I hope that I haven't messed up.
 Shematic for the diplexer:
 https://raw.githubusercontent.com/Supermagnum/diplexer/refs/heads/main/diplexer.pdf
-
-
-The lowpass filter has: 76mhz -40dB. Highpass filter 54.5mhz -40dB.
 
 BOM for capacitors and connectors:
 https://github.com/Supermagnum/diplexer/blob/main/BOM.xls
