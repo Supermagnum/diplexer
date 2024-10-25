@@ -1794,6 +1794,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFR,NO" " 100B750GTN1500XT "
+			(at 71.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D160GXGQT"
+			(at 71.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "98634662-18f8-48ce-8dcb-4f44c88731b2")
 		)
@@ -1862,6 +1880,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D200JXRAJ"
+			(at 182.88 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f4bab11-0f8d-446d-bca0-6978a8962fd1")
 		)
@@ -1922,6 +1949,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 157.48 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D120GXGQJ"
 			(at 157.48 53.34 0)
 			(effects
 				(font
@@ -2135,6 +2171,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D101GXGQT"
+			(at 177.8 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8926ff68-78d4-4e00-bf90-754f0defc1df")
 		)
@@ -2196,6 +2241,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 91.44 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D120GXGQJ"
+			(at 91.44 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2273,6 +2327,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D390JXRAJ"
+			(at 217.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "df2c84e5-797b-40eb-9b1b-2d9537eeae18")
 		)
@@ -2335,6 +2398,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 156.21 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D100JXRAJ"
 			(at 156.21 107.95 0)
 			(effects
 				(font
@@ -2812,6 +2884,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D100JXRAJ"
+			(at 182.88 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "05728ec5-634d-4669-bc9f-f1d203ecf3c2")
 		)
@@ -2939,6 +3020,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 91.44 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D120GXGQJ"
+			(at 91.44 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3149,6 +3239,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D120GXGQJ"
+			(at 157.48 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eb311c1f-2e6d-4ba2-86be-0493b8070222")
 		)
@@ -3279,6 +3378,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D100JXRAJ"
 			(at 191.77 107.95 0)
 			(effects
 				(font
@@ -3691,6 +3799,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D101GXGQT"
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b7605ef6-00f4-4702-8f59-dedb043a7918")
 		)
@@ -4095,6 +4212,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D130JXGAJ"
+			(at 67.31 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e05b135e-22e0-49f9-80f6-51143c4b4cd4")
 		)
@@ -4157,6 +4283,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 124.46 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D100JXRAJ"
 			(at 124.46 107.95 0)
 			(effects
 				(font
@@ -4495,6 +4630,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D120GXGQJ"
+			(at 123.19 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d61cc9b2-a387-497b-a1a4-d708fd1b95dd")
 		)
@@ -4564,6 +4708,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D101GXGQT"
+			(at 144.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3af1b353-8bd7-46e9-8510-8b0b04ef1cb3")
 		)
@@ -4625,6 +4778,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 123.19 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D120GXGQJ"
+			(at 123.19 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4832,6 +4994,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" " 100B300JT1500XT "
+			(at 67.31 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5106dffd-7df0-4cd8-8ea8-c11c439bcc0d")
 		)
@@ -4968,6 +5139,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "83-1R (SO-239)"
+			(at 245.11 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5482a0c1-4fa0-47a2-9ca3-f56ce7bdcebd")
 		)
@@ -5030,6 +5210,15 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 33.02 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "83-1R (SO-239)"
 			(at 33.02 53.34 0)
 			(effects
 				(font
@@ -5306,6 +5495,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "'172117"
+			(at 209.55 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a392fe46-c833-40ab-ac84-e66d075405a1")
 		)
@@ -5508,6 +5706,15 @@
 				(hide yes)
 			)
 		)
+		(property "mfr,no" "VJ1111D220JXRAJ"
+			(at 228.6 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be445197-22a8-45b1-9666-caa4b1e93fca")
 		)
@@ -5570,6 +5777,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 82.55 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR,NO" "VJ1111D160GXGQT"
+			(at 82.55 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mfr,no" "VJ1111D160GXGQT"
 			(at 82.55 107.95 0)
 			(effects
 				(font

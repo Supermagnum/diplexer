@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/haaken/Dokumenter/Dilexer/diplexer/diplexer.kicad_sch</source>
+    <date>2024-10-25T08:58:57+0200</date>
+    <tool>Eeschema 8.0.6-8.0.6-0~ubuntu24.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>diplexer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>13pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>995d2923-943f-48d9-998f-b973d3699ea9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>12pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D120GXGQJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D120GXGQJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cf566c8-6eb3-4ed8-9e68-d0f5c4478762</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>12pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D120GXGQJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D120GXGQJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdee9d0e-4d1d-407d-9a74-20bfa6b564ae</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>12pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17d9f64f-7c86-465f-a1d8-dc2add2a7121</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>20pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D200JXRAJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D200JXRAJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>170ec70b-9f65-4da5-939a-c7a6cd0b91a0</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>75pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="MFR,NO"> 100B750GTN1500XT </field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MFR,NO" value=" 100B750GTN1500XT "/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1633d5a0-31e6-41a8-8116-c5a955c530cf</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D101GXGQT</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D101GXGQT"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a189eca-0baa-4450-b85a-336b5b2e11ba</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D101GXGQT</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D101GXGQT"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbf1a2ec-e2c0-4946-9ffb-5a318e72bbe2</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22606972-a48c-4807-8c4b-5358375faf99</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>39pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D390JXRAJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D390JXRAJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d840ccf-b286-4800-97ec-7ae360319274</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>30pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no"> 100B300JT1500XT </field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value=" 100B300JT1500XT "/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4672163-ba03-4227-8f85-20a3db3e876b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>12pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D120GXGQJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D120GXGQJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42f47d8d-e4aa-4f1a-a1ad-808e226751ee</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>12pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D120GXGQJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D120GXGQJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b942109a-3c8f-4eb4-ad41-611931bafe6d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>12pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D120GXGQJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D120GXGQJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fff0761-ade8-4dd0-907c-8f4340284b67</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D100JXRAJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D100JXRAJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cedadcc-72a6-4a2d-baab-c537be50eeed</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>16pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="MFR,NO">VJ1111D160GXGQT</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MFR,NO" value="VJ1111D160GXGQT"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd77ed28-211d-4a40-a579-f2523b424762</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D100JXRAJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D100JXRAJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9972e55c-fea7-4e8a-bbb2-a2279f4f8430</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D100JXRAJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D100JXRAJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e133159-b782-4100-9e0f-33e5b2ac065f</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D100JXRAJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D100JXRAJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>550550e2-e567-42a5-a07b-fab72d2f0614</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>22pF</value>
+      <footprint>sparkfun-electromech:1111</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="mfr,no">VJ1111D220JXRAJ</field>
+        <field name="Footprint">sparkfun-electromech:1111</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="mfr,no" value="VJ1111D220JXRAJ"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f97e3cd7-bf8c-40ae-8562-94db597236aa</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_Coaxial</value>
+      <footprint>sparkfun-electromech:UHF slanted</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="mfr,no">83-1R (SO-239)</field>
+        <field name="Footprint">sparkfun-electromech:UHF slanted</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="mfr,no" value="83-1R (SO-239)"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d63b36ab-7ca7-4c48-ae41-ca59e08279a6</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial</value>
+      <footprint>sparkfun-electromech:N-conn slanted</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="mfr,no">'172117</field>
+        <field name="Footprint">sparkfun-electromech:N-conn slanted</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="mfr,no" value="'172117"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e68a6a8b-34cd-490c-97c4-040230e01071</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_Coaxial</value>
+      <footprint>sparkfun-electromech:UHF slanted</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="mfr,no">83-1R (SO-239)</field>
+        <field name="Footprint">sparkfun-electromech:UHF slanted</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="mfr,no" value="83-1R (SO-239)"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3ef8efc-9680-4d85-a779-0d47dd8a6a84</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7999e64a-d81d-4d76-ace5-378f8cce1b97</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c0d6ae1-7a6f-4fb2-8ffe-955d5374ca52</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>352834c7-bc38-4eeb-b941-bf92935d57c3</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87a749db-53b4-4f0e-bc5f-2f88a1c24b23</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a24fcfd5-b727-407c-b218-9d71d3d82364</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ab9d67d-a567-46f3-b15d-98d16fea0867</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>777004ea-2f99-4d5e-8f7f-b73de085f670</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x01_Pin</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa11281e-eb95-477c-8139-2548f5df7065</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>75nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33029f82-02ec-4227-8c4a-ee2a54c34616</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>62nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>582e08ee-e06a-46c5-87e7-c70e6005e30f</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>62nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8004a890-4f3e-4540-b684-ba6f8b0da132</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>56nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4af5be9b-d5f8-4cc8-965c-dec0ebf9dc91</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>100nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f89b9eb-07a5-4a90-aff6-d19dddf5982d</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>220nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73f4a374-bbf7-40d8-9abd-31c306ac5a0f</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>270nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3925138f-797a-4551-9594-731b78e4759a</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>270nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c81fa24-e5e5-4af1-a98f-1a1863c8bd53</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>270nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50a77d78-2d3f-4bc5-ad72-03d6fa912fd4</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>160nH</value>
+      <footprint>sparkfun-electromech:L_Axial_L14.6-hand</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">sparkfun-electromech:L_Axial_L14.6-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Rot"/>
+      <property name="Sheetfile" value="diplexer.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b4fd173-d893-46ac-a2c0-55049d510e6f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Pin">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+        <fp>*UMRF*</fp>
+        <fp>*MCX*</fp>
+        <fp>*U.FL*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Inductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="L10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="L8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="L7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C19-Pad1)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J1-In)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="L10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J2-In)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="L5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J3-In)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

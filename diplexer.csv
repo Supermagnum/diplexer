@@ -1,19 +1,21 @@
-"ID";"Designator";"Fotspor";"Mengde";"Betegnelse";"Leverandør og ref";
-1;"J7,J6,J5,J4";"MountingHole_3.2mm_M3";4;"Conn_01x01_Pin";;;
-2;"J2,J3";"N-conn slanted";2;"Conn_Coaxial";;;
-3;"L10";"L_Axial_L14.6-hand";1;"160nH";;;
-4;"C6";"C_2220_5750Metric";1;"91pF";;;
-5;"C4,C2";"C_2220_5750Metric";2;"24pF";;;
-6;"L2,L3";"L_Axial_L14.6-hand";2;"62nH";;;
-7;"L4";"L_Axial_L14.6-hand";1;"56nH";;;
-8;"L6";"L_Axial_L14.6-hand";1;"220nH";;;
-9;"L7,L9,L8";"L_Axial_L14.6-hand";3;"270nH";;;
-10;"C1";"C_2220_5750Metric";1;"43pF";;;
-11;"C7,C9";"C_2220_5750Metric";2;"110pF";;;
-12;"L1";"L_Axial_L14.6-hand";1;"75nH";;;
-13;"J1";"UHF slanted";1;"Conn_Coaxial";;;
-14;"C5";"C_2220_5750Metric";1;"30pF";;;
-15;"C10";"C_2220_5750Metric";1;"62pF";;;
-16;"C8";"C_2220_5750Metric";1;"110ppF";;;
-17;"L5";"L_Axial_L14.6-hand";1;"100nH";;;
-18;"C3";"C_2220_5750Metric";1;"24F";;;
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","C1","1","13pF","sparkfun-electromech:1111",""
+"2","C2, C3, C4, C12, C13, C14","6","12pF","sparkfun-electromech:1111",""
+"3","C5","1","20pF","sparkfun-electromech:1111",""
+"4","C6","1","75pF","sparkfun-electromech:1111",""
+"5","C7, C8, C9","3","100pF","sparkfun-electromech:1111",""
+"6","C10","1","39pF","sparkfun-electromech:1111",""
+"7","C11","1","30pF","sparkfun-electromech:1111",""
+"8","C15, C17, C18, C19","4","10pF","sparkfun-electromech:1111",""
+"9","C16","1","16pF","sparkfun-electromech:1111",""
+"10","C20","1","22pF","sparkfun-electromech:1111",""
+"11","J1, J3","2","Conn_Coaxial","sparkfun-electromech:UHF slanted",""
+"12","J2","1","Conn_Coaxial","sparkfun-electromech:N-conn slanted",""
+"13","J4, J5, J6, J7, J8, J9, J10, J11","8","Conn_01x01_Pin","MountingHole:MountingHole_3.2mm_M3_DIN965_Pad",""
+"14","L1","1","75nH","sparkfun-electromech:L_Axial_L14.6-hand",""
+"15","L2, L3","2","62nH","sparkfun-electromech:L_Axial_L14.6-hand",""
+"16","L4","1","56nH","sparkfun-electromech:L_Axial_L14.6-hand",""
+"17","L5","1","100nH","sparkfun-electromech:L_Axial_L14.6-hand",""
+"18","L6","1","220nH","sparkfun-electromech:L_Axial_L14.6-hand",""
+"19","L7, L8, L9","3","270nH","sparkfun-electromech:L_Axial_L14.6-hand",""
+"20","L10","1","160nH","sparkfun-electromech:L_Axial_L14.6-hand",""
