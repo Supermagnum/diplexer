@@ -31,8 +31,6 @@ I hope that I haven't messed up.
 Shematic for the diplexer:
 https://raw.githubusercontent.com/Supermagnum/diplexer/refs/heads/main/diplexer.pdf
 
-BOM for capacitors and connectors:
-https://github.com/Supermagnum/diplexer/blob/main/BOM.xls
 
 Inductors:
 You have to make these yourself!
