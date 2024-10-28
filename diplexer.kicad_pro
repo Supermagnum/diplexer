@@ -572,22 +572,16 @@
         },
         {
           "group_by": false,
-          "label": "MFR,NO",
-          "name": "MFR,NO",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "mfr,no",
-          "name": "mfr,no",
+          "label": "MPN",
+          "name": "MPN",
           "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "MFR,NO"
+      "sort_asc": false,
+      "sort_field": "MPN"
     },
     "connection_grid_size": 50.0,
     "drawing": {
