@@ -2269,7 +2269,7 @@
 	(footprint "sparkfun-electromech:N-conn slanted"
 		(layer "F.Cu")
 		(uuid "336caff7-ea4c-4ebb-af71-4c45ce8e3576")
-		(at 185.5 63.89 -90)
+		(at 186.4 63.89 -90)
 		(property "Reference" "J2"
 			(at -9.85 0 0)
 			(layer "F.SilkS")
