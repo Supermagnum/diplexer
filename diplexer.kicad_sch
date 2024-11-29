@@ -850,12 +850,6 @@
 		(uuid "da8dfe0d-287b-4d67-9b75-2da354879dfe")
 	)
 	(junction
-		(at 85.09 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc075fba-603e-443f-b29d-34cbf68aa5f4")
-	)
-	(junction
 		(at 58.42 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -872,12 +866,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdde72db-dba3-45f9-b1c0-7c69155952a1")
-	)
-	(junction
-		(at 85.09 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fea39ba7-d9c1-4209-97f6-ea3cb722b8b6")
 	)
 	(wire
 		(pts
@@ -921,7 +909,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 165.1) (xy 85.09 166.37)
+			(xy 85.09 157.48) (xy 85.09 166.37)
 		)
 		(stroke
 			(width 0)
@@ -1191,16 +1179,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 157.48) (xy 85.09 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9966807b-e97b-4346-a387-60a87dd7069b")
-	)
-	(wire
-		(pts
 			(xy 144.78 104.14) (xy 156.21 104.14)
 		)
 		(stroke
@@ -1258,16 +1236,6 @@
 			(type default)
 		)
 		(uuid "c01b8a0d-88e0-4cdd-8796-5863c6ef91b3")
-	)
-	(wire
-		(pts
-			(xy 85.09 138.43) (xy 85.09 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c50f1d91-2316-4b9c-99f5-e6f67b9b23b4")
 	)
 	(wire
 		(pts
@@ -4307,136 +4275,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x01_Pin")
-		(at 80.01 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a24fcfd5-b727-407c-b218-9d71d3d82364")
-		(property "Reference" "J8"
-			(at 80.645 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 80.645 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 80.01 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 80.01 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8d6c064a-3234-4bbf-a2e1-848f3923fc12")
-		)
-		(instances
-			(project "diplexer"
-				(path "/e3e6d633-5780-4393-92a9-d0fa1a8bbdfb"
-					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Pin")
-		(at 80.01 165.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aa11281e-eb95-477c-8139-2548f5df7065")
-		(property "Reference" "J11"
-			(at 80.645 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 80.645 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 80.01 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 80.01 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e7c11728-30aa-497e-b4f8-620f2509345c")
-		)
-		(instances
-			(project "diplexer"
-				(path "/e3e6d633-5780-4393-92a9-d0fa1a8bbdfb"
-					(reference "J11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 228.6 111.76 0)
 		(unit 1)
@@ -5094,7 +4932,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_Coaxial"
+		(property "Value" "Conn_Coaxial_UHF"
 			(at 248.92 105.7031 0)
 			(effects
 				(font
@@ -5103,7 +4941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "sparkfun-electromech:UHF slanted"
+		(property "Footprint" "sparkfun-electromech:UHF-slant-corr"
 			(at 245.11 104.14 0)
 			(effects
 				(font
@@ -5173,8 +5011,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_Coaxial"
-			(at 29.21 54.9031 0)
+		(property "Value" "Conn_Coaxial_UHF"
+			(at 29.972 54.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5182,7 +5020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "sparkfun-electromech:UHF slanted"
+		(property "Footprint" "sparkfun-electromech:UHF-slant-corr"
 			(at 33.02 53.34 0)
 			(effects
 				(font
@@ -5442,7 +5280,7 @@
 		(fields_autoplaced yes)
 		(uuid "e68a6a8b-34cd-490c-97c4-040230e01071")
 		(property "Reference" "J2"
-			(at 213.36 52.3631 0)
+			(at 212.09 52.3631 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5450,8 +5288,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_Coaxial"
-			(at 213.36 54.9031 0)
+		(property "Value" "Conn_Coaxial_N"
+			(at 212.09 54.9031 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5459,7 +5297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "sparkfun-electromech:N-conn slanted"
+		(property "Footprint" "sparkfun-electromech:Conn-N-slant-C"
 			(at 209.296 44.45 0)
 			(effects
 				(font

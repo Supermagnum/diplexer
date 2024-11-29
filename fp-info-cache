@@ -1,4 +1,4 @@
-24495634111634542
+24511213560481710
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90124,6 +90124,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SOIC8
+SOIC8_DDA_TEX
+
+
+0
+9
+9
+SOIC8
+SOIC8_DDA_TEX-L
+
+
+0
+9
+9
+SOIC8
+SOIC8_DDA_TEX-M
+
+
+0
+9
+9
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -91790,6 +91811,27 @@ Logo WEEE
 0
 0
 0
+TE-conn
+CONN4_2383942-4_TEC
+
+2383942-4 
+0
+4
+4
+TE-conn
+TE_2383942-7
+
+
+0
+7
+7
+TE-conn
+TE_2383945-9
+
+
+0
+9
+9
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -98441,6 +98483,13 @@ CHS-02A
 4
 4
 sparkfun-electromech
+Conn-N-slant-C
+
+
+0
+3
+3
+sparkfun-electromech
 DIPSWITCH-02
 DIP SWITCH
 DIP SWITCH
@@ -99157,6 +99206,13 @@ TRIM_POT_PTH
 sparkfun-electromech
 UHF slanted
 UHF slanted
+
+0
+3
+3
+sparkfun-electromech
+UHF-slant-corr
+
 
 0
 3
