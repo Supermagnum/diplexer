@@ -41,6 +41,10 @@ https://www.hammfg.com/part/1457N1601E
 
 All bolt holes is M3.
 
+
+Animation of assembled PCB:
+https://youtu.be/Ffxkk6wFYqY
+
 PCB boards and assembly:
 <a href="https://www.pcbway.com/project/shareproject/HF_6M_lowpass_and_4M_highpass_diplexer_af47343b.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
